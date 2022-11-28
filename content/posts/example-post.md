@@ -1,6 +1,6 @@
 ---
 title: "Example Post"
-date: 2020-09-15T11:30:03+00:00
+date: 2022-11-28
 # weight: 1
 # aliases: ["/first"]
 tags: ["test"]
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "Desc Text."
+description: "Testing Hugo Framework Features"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
