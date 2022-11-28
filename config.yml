@@ -75,15 +75,15 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Home Page"
-    Content: Digital Garden by Victor Fisher
+    Content: Victor's Library is a digital garden by Victor Fisher
 
-  socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+  # socialIcons:
+  #   - name: twitter
+  #     url: "https://twitter.com/"
+  #   - name: stackoverflow
+  #     url: "https://stackoverflow.com"
+  #   - name: github
+  #     url: "https://github.com/"
 
   analytics:
     google:
@@ -115,16 +115,20 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: archive
+      name: Archive
+      url: /archive/
+      weight: 10
     - identifier: categories
-      name: categories
+      name: Categories
       url: /categories/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
     - identifier: link
-      name: Old Version
+      name: Old Site
       url: http://reenchantment.band/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
