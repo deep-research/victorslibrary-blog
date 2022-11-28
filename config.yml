@@ -141,9 +141,9 @@ menu:
       name: Tags
       url: /tags/
       weight: 40
-    - identifier: link
-      name: Old Site
-      url: http://reenchantment.band/
+    - identifier: contact
+      name: Contact
+      url: https://bandcamp.com/contact?b=1631569890
       weight: 50
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
