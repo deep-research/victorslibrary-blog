@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>test on Victor&#39;s Library</title>
-    <link>https://victorslibrary.com/tags/test/</link>
-    <description>Recent content in test on Victor&#39;s Library</description>
+    <title>test tag on Victor&#39;s Library</title>
+    <link>https://victorslibrary.com/tags/test-tag/</link>
+    <description>Recent content in test tag on Victor&#39;s Library</description>
     <image>
       <url>https://victorslibrary.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://victorslibrary.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://victorslibrary.com/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://victorslibrary.com/tags/test-tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example Post</title>
       <link>https://victorslibrary.com/posts/example-post/</link>

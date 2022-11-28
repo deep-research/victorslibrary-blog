@@ -9,6 +9,16 @@
       <link>https://victorslibrary.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://victorslibrary.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://victorslibrary.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test category</title>
+      <link>https://victorslibrary.com/categories/test-category/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://victorslibrary.com/categories/test-category/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

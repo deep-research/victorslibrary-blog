@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://victorslibrary.com/categories/</loc>
+    <lastmod>2022-11-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://victorslibrary.com/posts/example-post/</loc>
     <lastmod>2022-11-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,15 +14,16 @@
     <loc>https://victorslibrary.com/tags/</loc>
     <lastmod>2022-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://victorslibrary.com/tags/test/</loc>
+    <loc>https://victorslibrary.com/categories/test-category/</loc>
+    <lastmod>2022-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://victorslibrary.com/tags/test-tag/</loc>
     <lastmod>2022-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://victorslibrary.com/</loc>
     <lastmod>2022-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://victorslibrary.com/archive/</loc>
-  </url><url>
-    <loc>https://victorslibrary.com/categories/</loc>
   </url><url>
     <loc>https://victorslibrary.com/search/</loc>
   </url>
