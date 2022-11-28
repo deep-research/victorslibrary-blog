@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://victorslibrary.com/tags/first/</loc>
+    <loc>https://victorslibrary.com/posts/example-post/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://victorslibrary.com/posts/my-first-post/</loc>
+    <loc>https://victorslibrary.com/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://victorslibrary.com/posts/</loc>
@@ -20,5 +20,7 @@
     <loc>https://victorslibrary.com/archive/</loc>
   </url><url>
     <loc>https://victorslibrary.com/categories/</loc>
+  </url><url>
+    <loc>https://victorslibrary.com/search/</loc>
   </url>
 </urlset>
