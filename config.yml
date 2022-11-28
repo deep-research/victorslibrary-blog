@@ -63,9 +63,9 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Victors Library"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
+    text: "Victor's Library"
+    # icon: /apple-touch-icon.png
+    # iconHeight: 35
 
   # profile-mode
   profileMode:
