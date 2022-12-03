@@ -3,8 +3,8 @@ title: "Example Post"
 date: 2022-11-28
 # weight: 1
 # aliases: ["/first"]
-tags: ["test tag"]
-categories: ["test category"]
+tags: ["Test Tag"]
+categories: ["Test Category"]
 author: "Victor Fisher"
 # author: ["Me", "You"] # multiple authors
 showToc: true

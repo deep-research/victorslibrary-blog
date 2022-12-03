@@ -2,7 +2,7 @@ baseURL: "https://victorslibrary.com/"
 languageCode: en-us
 title: Victor's Library
 paginate: 5
-theme: PaperMod
+theme: PaperModX
 
 enableRobotsTXT: true
 buildDrafts: false
